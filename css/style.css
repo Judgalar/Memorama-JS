@@ -1,0 +1,36 @@
+img{
+    width: 100%;
+}
+.button{
+    height: 100%;
+}
+.fila{
+    height: 30vh;
+}
+h1{
+    font-family: cursive;
+    color: green;
+}
+h4{
+    font-family: cursive;
+    color: royalblue;
+}
+#intentos{
+    font-family: cursive;
+    font-size: 30px;
+    color: green;
+}
+#parejas{
+    font-family: cursive;
+    font-size: 30px;
+    color:goldenrod;
+}
+#record{
+    font-family: cursive;
+    font-size: 30px;
+    color:blue;
+}
+.col-2{
+    justify-content: center;
+    align-items: center;
+}
